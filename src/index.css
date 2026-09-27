@@ -1,0 +1,14 @@
+@import "tailwindcss";
+:root{
+  --body-bg: #ffffffff;
+  --secondary-bg: #ea6365;
+  --buttons-bg: #e56b70;
+  --text-color: #0d0628;
+  --blue: #e56b70;
+  background-color: var(--body-bg);
+}
+
+.bg-brand {
+ --tw-bg-opacity: 1;
+ background-color: rgb(250 114 117 / var(--tw-bg-opacity)) /* #fa7275 */;
+}
